@@ -24,17 +24,40 @@ Below are some of my projects:
 
 * **Data Science:** https://bit.ly/2YJ58wV
 * **Python CodeWars Solutions:** https://bit.ly/3h9VcFa
-
-<!--* **Análise da taxa de suicidio no mundo:** https://bit.ly/2YisJEy
-* **Data Science: Investigando o naufrágio do Titanic:** Em construção
-<!-- https://bit.ly/2L2cMwy -->
-<!-- https://bit.ly/2Ubr5SH -->
-<!-- * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY -->
-
-<!-- * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN -->
-<!-- * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws -->
-<!-- * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV -->
+* **Python Projects:** https://bit.ly/2BeIUuL
+* **Alteryx Projects:** https://bit.ly/2Yc2ksZ
+* **Data visualization with Matplotlib - Python:** https://bit.ly/2YP54eW
+* **Simple games - Python:** https://bit.ly/3ddqQym
+* **Download files - JS :** https://bit.ly/2UUDSdC
+* **PHP API - PHP:** https://bit.ly/2YNe9F8
+* **Discover Python:** https://bit.ly/3fLVtg7
+* **Cinema chair - Node.js:** https://bit.ly/3eeuYiN
+* **Web Scraping - Python:** https://bit.ly/2UUpHW4
+* **App Script:** https://bit.ly/30YIvrb
+* **Web project - Lamp - JS:** https://bit.ly/30P1Lat
+* **API with Flask - Form :** https://bit.ly/2N94jbu
+* **API Flask:** https://bit.ly/3hC4FFt
+* **PWA - Timer:** https://bit.ly/3fDg85V
+* **PWA - Sabre de luz:** https://bit.ly/2UWlYHt
+* **Cubo de fotos - CSS:** https://bit.ly/3edniNU
+* **Cpnversor monetário - Shell Script:** https://bit.ly/3hCFnqx
+* **Calculadora IMC - C#:** https://bit.ly/2zM4mXC
+* **API with Django - Python:** https://bit.ly/3ebU0Pv
+* **Calculadora de média - C#:** https://bit.ly/2YOUYL6
+* **Exercícios em Shell Script:** https://bit.ly/3efODPA
+* **CRUD com Spring - JAVA:** https://bit.ly/2UU8H1Y
+* **Consulta Github - Node.js:** https://bit.ly/30P4FvP
+* **API de Login - Node.js:** https://bit.ly/3fAWFmo
+* **Timer - Node.js:** https://bit.ly/2UUfoBw
+* **Calculadora - JS:** https://bit.ly/2BgaRlJ
+* **Calculadora v3- C#:** https://bit.ly/2UUdwbX
+* **Local Storage - Json:** https://bit.ly/2zFZZ00
+* **Jogo da Forca - JS:** https://bit.ly/3edS6hk
+* **Blog React:** https://bit.ly/3hFuJzy
+* **API - StarWars - Node.js:** https://bit.ly/2YMf2xS
+* **Scripts em C:** https://bit.ly/3edFyXt
+* **API - StarWars - Node.js:** https://bit.ly/2YMf2xS
+* **SQL Queries:** https://bit.ly/30RtSWl
 
 ---
 
