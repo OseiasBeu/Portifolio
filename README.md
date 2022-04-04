@@ -24,11 +24,14 @@ Below are some of my projects:
 
 * **Data Science:** https://bit.ly/2YJ58wV
 * **Python CodeWars Solutions:** https://bit.ly/3h9VcFa
-* **Python Projects:** https://bit.ly/2BeIUuL
-* **Alteryx Projects:** https://bit.ly/2Yc2ksZ
 * **Data visualization with Matplotlib - Python:** https://bit.ly/2YP54eW
 * **Simple games - Python:** https://bit.ly/3ddqQym
-*  **Text Editor - Python:** https://bit.ly/3J67F9p
+* **Text Editor - Python:** https://bit.ly/3J67F9p
+* **Jogo da Forca - JS:** https://bit.ly/3edS6hk
+* **Blog React:** https://bit.ly/3hFuJzy
+* **API - StarWars - Node.js:** https://bit.ly/2YMf2xS
+* **Scripts em C:** https://bit.ly/3edFyXt
+* **SQL Queries:** https://bit.ly/30RtSWl
 * **Port Scan - Python:** https://bit.ly/3i3vaDe
 * **Download files - JS :** https://bit.ly/2UUDSdC
 * **PHP API - PHP:** https://bit.ly/2YNe9F8
@@ -54,12 +57,7 @@ Below are some of my projects:
 * **Calculadora - JS:** https://bit.ly/2BgaRlJ
 * **Calculadora v3- C#:** https://bit.ly/2UUdwbX
 * **Local Storage - Json:** https://bit.ly/2zFZZ00
-* **Jogo da Forca - JS:** https://bit.ly/3edS6hk
-* **Blog React:** https://bit.ly/3hFuJzy
-* **API - StarWars - Node.js:** https://bit.ly/2YMf2xS
-* **Scripts em C:** https://bit.ly/3edFyXt
-* **API - StarWars - Node.js:** https://bit.ly/2YMf2xS
-* **SQL Queries:** https://bit.ly/30RtSWl
+* **Alteryx Projects:** https://bit.ly/2Yc2ksZ
 
 ---
 
