@@ -28,6 +28,7 @@ Below are some of my projects:
 * **Alteryx Projects:** https://bit.ly/2Yc2ksZ
 * **Data visualization with Matplotlib - Python:** https://bit.ly/2YP54eW
 * **Simple games - Python:** https://bit.ly/3ddqQym
+*  **Text Editor - Python:** https://bit.ly/3J67F9p
 * **Port Scan - Python:** https://bit.ly/3i3vaDe
 * **Download files - JS :** https://bit.ly/2UUDSdC
 * **PHP API - PHP:** https://bit.ly/2YNe9F8
